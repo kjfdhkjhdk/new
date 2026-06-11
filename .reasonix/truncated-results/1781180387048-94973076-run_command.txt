@@ -1,0 +1,1494 @@
+$ echo -e "10\n+\n5\nq" | python calculator.py
+[killed after timeout]
+==============================
+  简单计算器
+==============================
+支持的运算: +  -  *  /
+输入 q 退出程序
+==============================
+
+请输入第一个数字: 输入无效，请输入数字！
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EOF when reading a line
+
+请输入第一个数字: 发生错误: EO
+
+[… truncated 132304 chars …]
