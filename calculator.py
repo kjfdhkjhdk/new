@@ -2,7 +2,7 @@ def calculator():
     print("=" * 30)
     print("  简单计算器")
     print("=" * 30)
-    print("支算: +  -  *  /")
+    print(": +  -  *  /")
     print("序")
     print("=" * 30)
 
